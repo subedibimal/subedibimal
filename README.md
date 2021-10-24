@@ -1,6 +1,6 @@
 ## About Me
 <img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
-<img src="https://img.shields.io/badge/-Subedi%20Bimal-black?style=social&logo=dart" width=300>
+<img src="https://img.shields.io/badge/-Bimal%20Subedi-black?style=social&logo=dart" width=300>
 <img src="https://img.shields.io/badge/-Develops%20Web%20Apps-black?style=flat&logo=android" width=300>
 
 ## -
@@ -14,6 +14,8 @@
 <img align="left" src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=javascript&logoColor=yellow" height=40>
 <img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
 <img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&theme=radical)!
 
 <!-- [![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=subedibimal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
  -->
