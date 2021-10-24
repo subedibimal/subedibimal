@@ -15,33 +15,15 @@
 <img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
 <img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40> -->
 
- ## Cumulated Work
+ ## Cumulated Work:
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
-
-<!-- ## Flutter Developer
 
 - 🔭 I’m currently working on Improving myself as a Software Engineer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: bimalsubedi04@gmail.com
 - ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://bimalsubedi.com/
- -->
 
 ## Visitor's Count:
 ![Visitor's Count](https://profile-counter.glitch.me/%7Bsubedibimal%7D/count.svg)
-
-<!--
-**subedibimal/subedibimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
