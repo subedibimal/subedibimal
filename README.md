@@ -17,9 +17,13 @@
 
  ## Cumulated Work:
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200 width="auto">
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subedibimal&theme=tokyonight" alt="mystreak"/>
+</p>
 <br>
+ 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=subedibimal&theme=react-dark&hide_border=true&area=true)
 <br/>
@@ -29,12 +33,17 @@
 - 📫 How to reach me: bimalsubedi04@gmail.com
 - 💬 Check out : https://bimalsubedi.com/
 
-## Visitor's Count:
-![Visitor's Count](https://profile-counter.glitch.me/%7Bsubedibimal%7D/count.svg)
+<h3 align="center">Visitor's Count:</h3>
+<div align="center">
+  
+ ![Visitor's Count](https://profile-counter.glitch.me/%7Bsubedibimal%7D/count.svg)
+ 
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
+ 
+[![image](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bimalsubedi4/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalsubedi/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bimalsubedi_/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bimalsubedi16)
