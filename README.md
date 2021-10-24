@@ -41,6 +41,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
  ## Cumulated Work:
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
