@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-Develops%20Web%20Apps-black?style=flat&logo=android" width=300>
 
 ## -
-## My Loves
+<!-- ## My Loves
 <img align="left" style="padding : 10px;" src="https://img.shields.io/badge/Android-black?style=plastic&logo=android" height=40>
 <img align="left" src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white" height=40>
 <img align="left" src="https://img.shields.io/badge/Flutter-black?style=plastic&logo=flutter&logoColor=1389FD" height=40>
@@ -13,11 +13,7 @@
 <img align="left" src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white" height=40>
 <img align="left" src="https://img.shields.io/badge/Javascript-black?style=plastic&logo=javascript&logoColor=yellow" height=40>
 <img align="left" src="https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase&logoColor=FFCA28" height=40>
-<img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&theme=radical)!
-
-[![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=subedibimal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
+<img src="https://img.shields.io/badge/Postgres-black?style=plastic&logo=postgresql&logoColor=007ACC" height=40> -->
 
  ## Cumulated Work
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
