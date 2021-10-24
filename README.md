@@ -19,10 +19,9 @@
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
 
-- 🔭 I’m currently working on Improving myself as a Software Engineer
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on Improving myself as a Software Engineer.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: bimalsubedi04@gmail.com
-- ⚡ Fun fact: Rive integration with flutter works with flutter web
 - 💬 Check out : https://bimalsubedi.com/
 
 ## Visitor's Count:
