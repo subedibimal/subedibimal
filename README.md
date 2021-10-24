@@ -1,8 +1,8 @@
 ## About Me
 <img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
-<img src="https://img.shields.io/badge/-Sushan%20Shakya-black?style=social&logo=dart" width=300>
+<img src="https://img.shields.io/badge/-subedi%20bimal-black?style=social&logo=dart" width=300>
 <img src="https://img.shields.io/badge/-Develops%20Mobile%20Apps-black?style=flat&logo=android" width=300>
-<!-- <img align="left" src="https://github.com/SushanShakya/SushanShakya/blob/master/header.svg" width="400" height="200"> -->
+<!-- <img align="left" src="https://github.com/subedibimal/subedibimal/blob/master/header.svg" width="400" height="200"> -->
 
 ## -
 ## My Loves
@@ -19,8 +19,8 @@
 <!-- [![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=subedibimal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
  -->
  ## Cumulated Work
-<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=SushanShakya&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanShakya&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
+<img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedbimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
 
 <!-- ## Flutter Developer
 
