@@ -1,7 +1,8 @@
-## About Me
-<img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
-<img src="https://img.shields.io/badge/-Bimal%20Subedi-black?style=social&logo=dart" width=300>
-<img src="https://img.shields.io/badge/-Develops%20Web%20Apps-black?style=flat&logo=android" width=300>
+## About Me:
+<!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 /> -->
+<img align="left" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" />
+<img src="https://img.shields.io/badge/-Bimal%20Subedi-black?style=social&logo=python" width="300" />
+<img src="https://img.shields.io/badge/-Web%20Developer-black?style=flat&logo=" width="300" />
 
 ## -
 <!-- ## My Loves
