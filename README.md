@@ -17,8 +17,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&theme=radical)!
 
-<!-- [![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=subedibimal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
- -->
+[![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=subedibimal&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)	
+
  ## Cumulated Work
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
