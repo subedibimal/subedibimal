@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-Web%20Developer-black?style=flat&logo=" width="300" />
 
 ## Welcome to my github profile!
-
+<br/>
 - 🔭 I’m currently working on Improving myself as a Software Engineer.
 - 🌱 I’m currently learning Python.
 - 💬 Check out : https://bimalsubedi.com/
