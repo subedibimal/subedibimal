@@ -18,7 +18,7 @@
  ## Cumulated Work:
 <img align="left" style="margin-top: 10px" src="https://github-readme-stats.vercel.app/api?username=subedibimal&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subedibimal&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subedibimal&theme=tokyonight" alt="mystreak"/>
 - 🔭 I’m currently working on Improving myself as a Software Engineer.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: bimalsubedi04@gmail.com
