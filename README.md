@@ -7,7 +7,7 @@
 <br/>
 
 - 🔭 I’m currently working on Improving myself as a Software Engineer.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working as a Python Developer.
 - 💬 Check out : https://bimalsubedi.com/
 
 ## My Favorites:
