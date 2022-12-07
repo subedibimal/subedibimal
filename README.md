@@ -50,11 +50,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subedibimal&theme=tokyonight" alt="mystreak"/>
 </p>
-<br>
- 
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=subedibimal&theme=react-dark&hide_border=true&area=true)
-<br/>
 
 <h3 align="center">Visitor's Count:</h3>
 <div align="center">
