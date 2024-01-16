@@ -1,5 +1,5 @@
 ## About Me:
-<img align="left" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300"/>
+<img align="left" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300"/>
 <img src="https://img.shields.io/badge/-Bimal%20Subedi-black?style=social&logo=python" width="300" />
 <img src="https://img.shields.io/badge/-Web%20Developer-black?style=flat&logo=" width="300" />
 
